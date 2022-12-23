@@ -1,10 +1,8 @@
 # Calendar
-<div>
-    <a href="https://codepen.io/truongvy-06/pen/xxJGbbo" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-006fff?style=for-the-badge&logo=codepen&logoColor=white" alt="DEMO"/></a>
-
 
 ## Screenshot
-
+![](https://i.imgur.com/W89GeBz.png)
+![](https://i.imgur.com/gvl63VN.png)
 ## Summary
 
 Nếu bạn thích dự án của tôi hãy chia sẻ nó với bạn bè của bạn
